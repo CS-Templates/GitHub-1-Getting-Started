@@ -16,8 +16,6 @@ To finish this assignment you will need a working e-mail account that you can ac
 In order to complete this assignment:
 
 1. Make sure you have a working e-mail account where you can check your e-mail.
-1. Complete the GitHub account setup assignment.
-1. Complete the GitHub Hello World assignment.
 
 ## The Details:
 
