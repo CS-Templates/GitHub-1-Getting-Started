@@ -35,7 +35,7 @@ When you are done, submit the assignment:
 * Click on your GitHub bookmark to take you to your GitHub profile, then copy the URL. **Note well:** GitHub's use of the term _Profile_ is confusing. They use to mean different things in almost the same place... Sorry about that. The profile that you want is the one that you get by clicking on the `+` dropdown menu in the upper right hand corner of the GitHub window. The resulting URL will read:
 
   
-  https://github.com/***your user name***
+  ***https://github.com/your user name***
   
 * On Canvas (you're here, right?) paste the URL into the submission box.
 * At the end of class, in your notebook, reflect on how it went today:
