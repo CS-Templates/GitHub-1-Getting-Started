@@ -13,9 +13,7 @@ To finish this assignment you will need a working e-mail account that you can ac
 
 ## First Things First
 
-In order to complete this assignment:
-
-1. Make sure you have a working e-mail account where you can check your e-mail.
+In order to complete this assignment you will need an e-mail account where you can receive e-mail. If you don't have one, now would be a good time to set one up. If you have concerns about setting one up, please see me.
 
 ## The Details:
 
