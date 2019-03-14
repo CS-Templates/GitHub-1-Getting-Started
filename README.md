@@ -39,7 +39,7 @@ When you are done, submit the assignment:
 1. Fill in your name.
 1. Click on your GitHub bookmark to take you to your GitHub profile, then copy the URL. **Note well:** GitHub's use of the term _Profile_ is confusing. They use to mean different things in almost the same place... Sorry about that. The profile that you want is the one that you get by clicking on the `+` dropdown menu in the upper right hand corner of the GitHub window. The resulting URL will read:
 
-  ***https://github.com/YourUserName***
+   ***https://github.com/YourUserName***
 1. Fill in your GitHub username and use the URL that you copied to make it a link.
 1. Submit in the usual fashion.
  
