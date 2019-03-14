@@ -1,19 +1,17 @@
 ## Overview
 
-<img src="https://imgs.xkcd.com/comics/git.png" align="right"> Today you are going to create an account on [GitHub][] (contol-click on this link to open it in another tab) one of the better known sites for hosting [Git][] repositories. Git is a _source code management_ system – a tool to help you keep track of the changes in your software projects, like Unity games. When things go wrong, git can help you figure out what changed, and who changed it. That's often the first step towards fixing it.
+<img src="https://imgs.xkcd.com/comics/git.png" align="right"> Today you are going to create an account on [GitHub][] (contol-click on this link to open it in another tab) one of the better known sites for hosting [Git][] repositories. Git is a _revison control system_ – a tool to help you keep track of changes in your software projects, like Unity games. When things go wrong, Git can help you figure out what changed, and who changed it. That's often the first step towards fixing it.
 
 Here is an overview of what you will be doing today:
 
-* Create an account on GitHub.
+* Create an account on [GitHub][].
 * Practice working with Git and GitHub.
-* Turn on the [GitHub Pages][gh-pages] web site – we'll use this later to host our games.
-* Practice by making a few changes to your website.
 
-To finish this assignment you will need a working e-mail account that you can access. If you alread have one, that's great, use it. Otherwise, you will need to set one up. Until you verify your e-mail address, your GitHub Pages site will not be active. You can do everything else without a working e-mail.
+Git is one of the most widely used revision control systems. Even basic skill with Git and GitHub will look good on your resume. In this class GitHub also provides us with a way to manage your code so that you can work on projects at home and in the class. It also makes it _much_ easier to collaborate with others.
 
 ## First Things First
 
-In order to complete this assignment you will need an e-mail account where you can receive e-mail. If you don't have one, now would be a good time to set one up. If you have concerns about setting one up, please see me.
+In order to get the full benefit out of GitHub you will need an e-mail account where you can receive e-mail. If you don't have one, now would be a good time to set one up. If you have concerns about setting one up, please see me.
 
 ## The Details:
 
@@ -21,7 +19,7 @@ Here's what to do, in detail:
 
 ### Create an account on GitHub
 
-1. Click on the link to go to [GitHub (https://github.com)][github].
+1. Right-click on the link to go to [GitHub (https://github.com)][github] in another tab.
 2. Select a user name that you will be comfortable sharing with colleagues and potential employers. If you can get it, your name is a good choice.
 3. Enter your e-mail address.
 4. Enter the password you want to use. You may want to type it "in the clear" so that you can be sure it is right. Note that you don't have a password verification box, so whatever you type for a password will be accepted - even if it is not what you meant to type.
