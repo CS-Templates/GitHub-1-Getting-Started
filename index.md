@@ -25,6 +25,8 @@ Here's what to do, in detail:
 
 ### Create an account on GitHub
 
+If you already have an account you are welcome to use it. If you need to create an account, this is how to go about it:
+
 1. Right-click on the link to go to [GitHub (https://github.com)][github] in another tab.
 2. Select a user name that you will be comfortable sharing with colleagues and potential employers. If you can get it, your name is a good choice.
 3. Enter your e-mail address.
