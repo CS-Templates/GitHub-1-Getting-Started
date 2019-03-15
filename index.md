@@ -29,7 +29,7 @@ Here's what to do, in detail:
 2. Select a user name that you will be comfortable sharing with colleagues and potential employers. If you can get it, your name is a good choice.
 3. Enter your e-mail address.
 4. Enter the password you want to use. You may want to type it "in the clear" so that you can be sure it is right. Note that you don't have a password verification box, so whatever you type for a password will be accepted - even if it is not what you meant to type.
-5. Once you have created the account click on the *avatar* in the upper right hand corner and choose **Settings** from the dropdown menu, then enter your name (as I know you). This is especially important if you didn't use your name as your GitHub username.
+5. Once you have created the account click on the *avatar* in the upper right hand corner and choose **Settings** from the dropdown menu, then enter your name (as I know you). To protect your privacy you may want to enter only your first name (and maybe last initial). This is especially important if you didn't use your name as your GitHub username.
 6. Then choose **Profile** from the same dropdown – it will take you to your GitHub profile page. **Bookmark this page,** you will visit it often.
 
 ## Submit The Assignment
